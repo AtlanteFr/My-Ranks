@@ -1,4 +1,4 @@
-        License for textures of the trapdoors and doors
+        License for MyRanks
 ------------------------------------------------------------------------------------------------------------------------
 Copyright (C) 2022-2023: Atlante - MIT
 
